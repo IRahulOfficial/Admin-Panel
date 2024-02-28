@@ -23,3 +23,10 @@ Welcome to the backend repository of our Blog Website! This repository contains 
    ```bash
    git clone https://github.com/IRahulOfficial/Admin-Panel.git
    cd Admin-Panel
+
+2. Set up the database:
+
+Create a MySQL database and configure the config.php file with the database credentials.
+Configure the environment:
+
+Use a local server (e.g., Apache, Nginx) to run the PHP server.
